@@ -1,0 +1,26 @@
+{
+  "name": "sabza-frontend",
+  "version": "1.0.0",
+  "description": "Sabza Client Frontend",
+  "main": "sever.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theSabza/sabza-frontend.git"
+  },
+  "author": "Hamza A. Dastagir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theSabza/sabza-frontend/issues"
+  },
+  "homepage": "https://github.com/theSabza/sabza-frontend#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
